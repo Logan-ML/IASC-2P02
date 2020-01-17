@@ -1,2 +1,3 @@
-# IASC-2P02
-Winter 2020, IASC 2P02
+# Hello World
+
+This is the read me file for my IASC 2P02 Web Portfolio
