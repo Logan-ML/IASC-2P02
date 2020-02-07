@@ -1,3 +1,16 @@
-# Hello World
+# IASC 2P02 | Logan Leveille
 
-This is the read me file for my IASC 2P02 Web Portfolio
+
+## About me 
+
+second year student for computer sciences with a minor in IASC. Portfolio website.
+
+![](imagez/dog.jpeg)
+
+## Blog Post
+
+First sentence of blod post goes here....
+
+kramdown flavoured markdown
+
+
