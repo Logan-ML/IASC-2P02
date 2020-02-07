@@ -5,7 +5,7 @@
 
 second year student for computer sciences with a minor in IASC. Portfolio website.
 
-![](imagez/dog.jpeg)
+![](images/dog.jpeg)
 
 ## Blog Post
 
