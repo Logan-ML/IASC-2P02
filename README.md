@@ -9,7 +9,7 @@ second year student for computer sciences with a minor in IASC. Portfolio websit
 
 ## Blog Post
 
-First sentence of blod post goes here....
+First sentence of blod post goes here.... [contune reading](blog)
 
 kramdown flavoured markdown
 
