@@ -26,5 +26,5 @@ Feel free to change the height and width values or other styling below: -->
 -->
 
 
-<iframe style="width 100%; height: 1000px;" src="processing/index.html"></iframe>
+<iframe style="width: 100%; height: 1000px;" src="processing/index.html"></iframe>
 
