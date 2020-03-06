@@ -7,3 +7,12 @@ Fusce ullamcorper vel lacus quis aliquam. Morbi vitae nisl pretium, placerat vel
 Suspendisse lacinia, diam a elementum sollicitudin, justo quam imperdiet dui, eget pulvinar nibh eros ut massa. Etiam nec tincidunt dolor. Ut placerat nibh non augue venenatis dictum. Cras mauris turpis, sodales vel mi at, dictum varius leo. Proin eleifend vestibulum dapibus. Cras arcu quam, tempor nec elit at, pellentesque luctus velit. Cras vel nulla vel lectus dapibus tempor.
 
 Proin efficitur ullamcorper magna et sagittis. Sed non elit condimentum, bibendum risus eget, condimentum felis. Integer pretium libero sed justo sagittis varius. Aliquam vitae fringilla est, pretium aliquam arcu. Mauris lacinia vel augue eget tincidunt. Nunc ut diam ac turpis euismod placerat. Duis fermentum velit sit amet justo elementum pulvinar. Ut consectetur non lectus vitae maximus. Donec quis fringilla lectus.
+
+
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 477px; height: 399px;' src='https://voyant-tools.org/tool/CollocatesGraph/?query=humanities&query=novel&query=digital&mode=corpus&corpus=6384e50b4b967548abd07557ddcca2ae'></iframe>
