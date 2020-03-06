@@ -21,10 +21,10 @@ http and https siteshttps://github.com/Logan-ML, but if you're embedding this in
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<!--
+
+
 <iframe style='width: 477px; height: 399px;' src='https://voyant-tools.org/tool/CollocatesGraph/?query=humanities&query=novel&query=digital&mode=corpus&corpus=6384e50b4b967548abd07557ddcca2ae'></iframe>
--->
 
 
-<iframe style="width: 250px; height: 1000px;" src="processing/index.html"></iframe>
+<iframe style="width: 550px; height: 1000px;" src="processing/index.html"></iframe>
 
