@@ -17,8 +17,10 @@ it depends on this server.
 Feel free to change the height and width values or other styling below: -->
 <!--	Exported from Voyant Tools (voyant-tools.org).
 The iframe src attribute below uses a relative protocol to better function with both
-http and https sites, but if you're embedding this into a local web page (file protocol)
+http and https siteshttps://github.com/Logan-ML, but if you're embedding this into a local web page (file protocol)
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
+<!--
 <iframe style='width: 477px; height: 399px;' src='https://voyant-tools.org/tool/CollocatesGraph/?query=humanities&query=novel&query=digital&mode=corpus&corpus=6384e50b4b967548abd07557ddcca2ae'></iframe>
+-->
