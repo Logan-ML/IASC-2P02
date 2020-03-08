@@ -22,9 +22,12 @@ you should add an explicit protocol (https if you're using voyant-tools.org, oth
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
 
+<iframe style='width: 637px; height: 487px;' src='https://voyant-tools.org/tool/Trends/?query=space&query=graph*&query=time&mode=&corpus=8b89b6e45b0b0389ae49550c53d8c2e8'></iframe>
+
+<iframe style='width: 637px; height: 487px;' src='https://voyant-tools.org/tool/CollocatesGraph/?query=digital&query=time&query=space&query=graph&mode=corpus&corpus=8b89b6e45b0b0389ae49550c53d8c2e8'></iframe>
 
 <iframe style='width: 477px; height: 399px;' src='https://voyant-tools.org/tool/CollocatesGraph/?query=humanities&query=novel&query=digital&mode=corpus&corpus=6384e50b4b967548abd07557ddcca2ae'></iframe>
 
-
+<!--
 <iframe style="width: 750px; height: 1000px;" src="processing/index.html"></iframe>
-
+-->
