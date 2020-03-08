@@ -39,7 +39,9 @@ This is why multimedia platforms are essential for the humanities. They provided
 
 ## Works Cited
 Burgess, H. J., & Hamming, J. (2011). New Media in the Academy: Labor and the Production of Knowledge in Scholarly Multimedia. Digital Humanities Quarterly, 5(3). Retrieved from http://digitalhumanities.org:8081/dhq/vol/5/3/000102/000102.html
+
 Drucker , J. (2011). Humanities Approaches to Graphical Display. Digital Humanities Quarterly, 5(1). Retrieved from http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
+
 Muri, A. (2016). Chapter 14
 Beyond GIS: On mapping early modern narratives and the chronotope. Digital Studies/Le Champ Numérique, 6(0). doi: 10.16995/dscn.11
 
