@@ -1,4 +1,4 @@
-## Concept of Time and Space Through a Multimedia Platrform
+## Concept of Time and Space Through a Multimedia Platform
 
 ## Topic That will be covered in this post:
 Both Moretti and Drucker argue that visual forms (e.g. graphs, maps, etc.) can and should be used to
