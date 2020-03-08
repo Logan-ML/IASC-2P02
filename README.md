@@ -9,8 +9,8 @@ Hello everyone and welcome to my website! Currently I am a second year Medical s
 
 ## Blog Post
 
-First sentence of blod post goes here.... [continue reading](blog)
+The history of the deliverance of media has grown parallel to human evolution, beginning with simple cave drawings, to the now scholarly texts and videos in academia which we deem as the “proper” expression of media... [continue reading](blog)
 
-kramdown flavoured markdown
+
 
 
