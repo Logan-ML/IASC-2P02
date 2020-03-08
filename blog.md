@@ -55,9 +55,7 @@ Beyond GIS: On mapping early modern narratives and the chronotope. Digital Studi
 
 [Back To Home Page](https://logan-ml.github.io/IASC-2P02/)
 
-<p>aaa
-bbb
-ccc</p>
+
 <!--
 <iframe style="width: 750px; height: 1000px;" src="processing/index.html"></iframe>
 -->
