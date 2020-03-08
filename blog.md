@@ -53,7 +53,8 @@ Drucker , J. (2011). Humanities Approaches to Graphical Display. Digital Humanit
 Muri, A. (2016). Chapter 14
 Beyond GIS: On mapping early modern narratives and the chronotope. Digital Studies/Le Champ Numérique, 6(0). doi: 10.16995/dscn.11
 
-[Back To Home Page]()
+[Back To Home Page](https://logan-ml.github.io/)
+
 
 
 <!--
